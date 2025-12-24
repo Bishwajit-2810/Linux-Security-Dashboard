@@ -1,0 +1,9 @@
+psutil
+matplotlib
+seaborn
+pyperclip
+cryptography
+pyudev
+pillow
+numpy
+
